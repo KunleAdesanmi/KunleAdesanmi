@@ -4,10 +4,6 @@
 
 - <b> Azure / Cloud Projects </b>
   - Creating a Live SOC/Honeynet in Azure (https://github.com/KunleAdesanmi/AzureCloud-SOC)
- <h2>👨‍💻 Projects I'm working on :</h2>
-
-- <b>xxxxx (dddd)</b>
-  - 
 
 <h2> 🤳 Connect with me:</h2>
 
