@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ade! <a href="https://www.linkedin.com/in/adekunle-adesanmi/">A Passionate Cloud and DevOps Engineer</a>.
+<h1>Hi, I'm Ade! <a href="https://www.linkedin.com/in/adekunle-adesanmi/">A Passionate Cloud Security Engineer</a>.
 
 <h2>👨‍💻 Cybersecurity Projects :</h2>
 
